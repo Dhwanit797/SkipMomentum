@@ -112,6 +112,3 @@ Government Polytechnic, Ahmedabad
 This project is intended for educational and portfolio purposes.
 
 ---
-
-
-Just tell me 👍.
